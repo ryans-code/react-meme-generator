@@ -3,7 +3,7 @@
 This is a project that I followed along with while learning React.
 The code is not my own, all credit goes to Bob Ziroll's React Course - Beginner's Tutorial for React JavaScript Library [2022]
 https://www.youtube.com/watch?v=bMknfKXIFA8&t=14448s
-and freeCodeCamp.org
+and freeCodeCamp.org. But, I've got to start somewhere so I decided to upload this project to github to demonstrate that I do enjoy learning new things.
 
 This project uses an API call to https://api.imgflip.com/get_memes
 
